@@ -1,0 +1,8 @@
+{
+  "r2_buckets": [
+    {
+      "bucket_name": "agent-files",
+      "binding": "agent_files"
+    }
+  ]
+}
